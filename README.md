@@ -1,4 +1,4 @@
-** Kohwi Lab Hi-C Database**
+**Kohwi Lab Hi-C Database**
 
 This database was constructed by Bioinformatics Masters students at Boston University with the intent to help store and visualize data.
 
