@@ -10,11 +10,11 @@ HICEXPLORER_CMD = "/usr/local/Python-3.12/bin/hicConvertFormat"  # assume hicCon
 OUTPUT_DIR = "/var/www/html/students_25/Team3/app2/samples3"
 os.makedirs(OUTPUT_DIR, exist_ok=True)
 
-DB_USER = "spatra"
-DB_PASS = "benji"
-DB_HOST = "bioed-new.bu.edu"
-DB_NAME = "Team3"
-DB_PORT = 4253
+DB_USER = ###
+DB_PASS = ###
+DB_HOST = ###
+DB_NAME = ###
+DB_PORT = ###
 
 # --- FUNCTIONS ---
 
