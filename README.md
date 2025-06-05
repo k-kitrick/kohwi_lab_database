@@ -4,5 +4,5 @@ This database was constructed by Bioinformatics Masters students at Boston Unive
 
 Directories and file layout:
 - app/ : All files pertaining to the implementation of the front- and back-end of the website for implementation (This includes our HTML template, Flask app, python scripts, data files used, and static images and plots displayed on the website.)
-- setup/ : Files for table generation in R and SQL.
+- setup/ : Files to generate the database's 'Gene' table in R and 'Map' in SQL.
 - docs/ : the GTF file and track information for the embedded UCSC genome browser tab on the website
